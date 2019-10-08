@@ -20,6 +20,7 @@ remote_theme: douglasurner/canvas
   <summary>4th Block</summary>
   
   * [Madison A.](https://github.com/wowitsmadiao)
+  * [Izaac C.](https://github.com/izaac13)
   * [Emma H.](https://github.com/fcr-harris)
   * [Douglas U.](https://github.com/DouglasUrner)
   
